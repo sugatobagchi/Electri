@@ -1,0 +1,9 @@
+paddlepaddle
+PaddleOCR
+fastapi
+numpy
+Pillow
+pydantic
+ultralytics
+uvicorn
+python-multipart
